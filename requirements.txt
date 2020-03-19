@@ -5,3 +5,6 @@
 flask
 
 # Flask Packages
+Flask-script
+flask-wtf
+Flask-user
