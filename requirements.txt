@@ -5,6 +5,6 @@
 flask
 
 # Flask Packages
-Flask-script
+flask-script
 flask-wtf
-Flask-user
+flask-user
