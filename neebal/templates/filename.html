@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="content-section">
+        {% if text %}
+        <h4>File Content:</h4>
+        {% for t in text %}
+            <h6>{{ t }}</h2>
+        {% endfor %}
+        {% endif %}
+    </div>
+{% endblock content %}
