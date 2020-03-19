@@ -1,5 +1,5 @@
 Steps to run Flask Web-application:
-1:	Download or clone repository.
+1:	Download or clone repository. 
 2:	Installing virtualenv:	
     	python -m pip install --user virtualenv
 3:	Creating a virtual environment: 
