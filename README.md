@@ -12,3 +12,4 @@ Steps to run Flask Web-application:
 7:  type 'set FLASK_APP=flasklog.py' in command prompt.
 8:  type 'set FLASK_DEBUG=1' in command prompt.
 9:  type 'python flasklog.py' in command prompt to run the project.
+	
